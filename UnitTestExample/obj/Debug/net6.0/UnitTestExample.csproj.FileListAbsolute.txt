@@ -1,0 +1,15 @@
+C:\Users\SeanL\source\repos\UnitTestsExample\UnitTestExample\bin\Debug\net6.0\UnitTestExample.exe
+C:\Users\SeanL\source\repos\UnitTestsExample\UnitTestExample\bin\Debug\net6.0\UnitTestExample.deps.json
+C:\Users\SeanL\source\repos\UnitTestsExample\UnitTestExample\bin\Debug\net6.0\UnitTestExample.runtimeconfig.json
+C:\Users\SeanL\source\repos\UnitTestsExample\UnitTestExample\bin\Debug\net6.0\UnitTestExample.dll
+C:\Users\SeanL\source\repos\UnitTestsExample\UnitTestExample\bin\Debug\net6.0\UnitTestExample.pdb
+C:\Users\SeanL\source\repos\UnitTestsExample\UnitTestExample\obj\Debug\net6.0\UnitTestExample.csproj.AssemblyReference.cache
+C:\Users\SeanL\source\repos\UnitTestsExample\UnitTestExample\obj\Debug\net6.0\UnitTestExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeanL\source\repos\UnitTestsExample\UnitTestExample\obj\Debug\net6.0\UnitTestExample.AssemblyInfoInputs.cache
+C:\Users\SeanL\source\repos\UnitTestsExample\UnitTestExample\obj\Debug\net6.0\UnitTestExample.AssemblyInfo.cs
+C:\Users\SeanL\source\repos\UnitTestsExample\UnitTestExample\obj\Debug\net6.0\UnitTestExample.csproj.CoreCompileInputs.cache
+C:\Users\SeanL\source\repos\UnitTestsExample\UnitTestExample\obj\Debug\net6.0\UnitTestExample.dll
+C:\Users\SeanL\source\repos\UnitTestsExample\UnitTestExample\obj\Debug\net6.0\refint\UnitTestExample.dll
+C:\Users\SeanL\source\repos\UnitTestsExample\UnitTestExample\obj\Debug\net6.0\UnitTestExample.pdb
+C:\Users\SeanL\source\repos\UnitTestsExample\UnitTestExample\obj\Debug\net6.0\UnitTestExample.genruntimeconfig.cache
+C:\Users\SeanL\source\repos\UnitTestsExample\UnitTestExample\obj\Debug\net6.0\ref\UnitTestExample.dll
